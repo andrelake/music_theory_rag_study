@@ -1,0 +1,8 @@
+python-dotenv~=1.0.1
+pinecone-client
+langchain~=0.1.5
+langchain_community
+langchain_openai
+openai~=1.11.1
+upstash_redis
+pypdf
